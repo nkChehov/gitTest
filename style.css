@@ -1,11 +1,17 @@
 
 body{
 	background: grey;
+	width: 800px;
+	margin: 10px auto;
 }
 
 h1{
 	text-align: center;
 	background: black;
-	color: white;
-	font-size: 80px;
+	color: yellow;
+	font-size: 90px;
+}
+
+p{
+	font-size: 30px;
 }
