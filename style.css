@@ -8,10 +8,11 @@ body{
 h1{
 	text-align: center;
 	background: black;
-	color: yellow;
+	color: red;
 	font-size: 90px;
 }
 
 p{
 	font-size: 30px;
+	color: yellow;
 }
