@@ -1,0 +1,18 @@
+
+body{
+	background: grey;
+	width: 800px;
+	margin: 10px auto;
+}
+
+h1{
+	text-align: center;
+	background: black;
+	color: red;
+	font-size: 90px;
+}
+
+p{
+	font-size: 30px;
+	color: yellow;
+}
